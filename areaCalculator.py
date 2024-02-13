@@ -55,7 +55,7 @@ while cont=="y" or "yes":
     if (cont)!=str:
        print("You must enter Y to continue or N to end program: ")
         #this print line feels a little sassy but hey the mood fits somehow
-        cont=input("Would you like to continue (Y/N)?")
+    cont=input("Would you like to continue (Y/N)?")
     cont=cont.lower()
     break 
 cont=cont.lower()
