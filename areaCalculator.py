@@ -1,11 +1,6 @@
 '''Area Calculator 
     by blkShirt'''
 
-#hello and welcome to THE FINAL PROJECT
-#usually the titles are somewhat descriptive
-#this one however is not so allow me to explain
-#what exactly is going on in this file
-#...
 #you've made your way to the "functions section"
 #here i have put the functions that will be reoccuring
 
